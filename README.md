@@ -1,6 +1,6 @@
 # API-Redis
 
-# Fetch data from API's and save it to Redis
+# Fetch data from API and save it to Redis
 
 ## Prerequisites
 ### Golang

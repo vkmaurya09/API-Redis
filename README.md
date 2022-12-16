@@ -1,6 +1,6 @@
 # API-Redis!
 
-Used Twelve Data API to fetch data and saved in redis.
+Used "Twelve Data"(RapidApi) API to fetch stock quotes and saved in redis.
 
 
 

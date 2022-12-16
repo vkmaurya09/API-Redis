@@ -1,6 +1,20 @@
 # API-Redis
 
-Used "Twelve Data"(RapidApi) API to fetch stock quotes and saved in redis.
+#Fetch data from API's and save it to Redis
+
+##Prerequisites
+###Golang
+###Redis
+
+
+##RapidAPI 
+RapidAPI gives free api to use.
+In this project i have used "Twelve Data" api to fetch stock market quotes.
+
+##Command to run this project 
+go run main.go
+
+
 
 
 

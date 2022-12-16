@@ -3,8 +3,9 @@
 # Fetch data from API and save it to Redis
 
 ## Prerequisites
-- Golang
-- Redis
+- Golang -  sudo apt-get install golang
+- Redis -  sudo apt-get install redis
+
 
 
 ## RapidAPI 
@@ -12,7 +13,7 @@ RapidAPI gives free api to use.
 In this project i have used "Twelve Data" api to fetch stock market quotes.
 
 ## Command to run this project 
--- go run main.go
+- go run main.go
 
 
 

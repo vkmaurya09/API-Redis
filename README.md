@@ -1,17 +1,17 @@
 # API-Redis
 
-#Fetch data from API's and save it to Redis
+# Fetch data from API's and save it to Redis
 
-##Prerequisites
-###Golang
-###Redis
+## Prerequisites
+### Golang
+### Redis
 
 
-##RapidAPI 
+## apidAPI 
 RapidAPI gives free api to use.
 In this project i have used "Twelve Data" api to fetch stock market quotes.
 
-##Command to run this project 
+## Command to run this project 
 go run main.go
 
 

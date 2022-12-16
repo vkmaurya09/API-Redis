@@ -3,8 +3,8 @@
 # Fetch data from API and save it to Redis
 
 ## Prerequisites
-### Golang
-### Redis
+1 Golang
+2 Redis
 
 
 ## RapidAPI 

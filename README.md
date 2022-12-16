@@ -12,7 +12,7 @@ RapidAPI gives free api to use.
 In this project i have used "Twelve Data" api to fetch stock market quotes.
 
 ## Command to run this project 
-go run main.go
+- go run main.go
 
 
 
@@ -20,7 +20,7 @@ go run main.go
 ## Redis
 To get data in redis run command
 - redis-cli
-- Get stock
+- get stock
 
 
 ### Data In redis
